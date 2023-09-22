@@ -2,7 +2,6 @@
 title: "3D Printing Technologies in Personalized Medicine and Nanomedicines"
 date: 2023-09-21
 ---
-# 3D Printing Technologies in Personalized Medicine and Nanomedicines
 
 3D printing technologies have made significant advancements in the fields of personalized medicine, nanomedicines, and biopharmaceuticals, offering innovative solutions for drug delivery, tissue engineering, and the production of customized medical devices. 
 
